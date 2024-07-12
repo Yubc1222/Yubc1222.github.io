@@ -1,7 +1,15 @@
 ---
-layoup:       post
-title:        第五人格启动！
-tags:         play
+---
+layout:     post
+title:      "第五人格世界第一！"
+subtitle:   " 第五人格启动"
+date:       2024-07-12 
+author:     "黄昏"
+catalog: true
+tags:
+    - 第五人格
+    - UX/UI
+---
 ---
 
 第五人格天下第一，第五人格启动！！！！！！！！！！！！！！！
