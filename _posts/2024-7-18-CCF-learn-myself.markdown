@@ -11,7 +11,7 @@ tags:
 
 #1.1模块化编程
 ---
-'''cpp
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -23,10 +23,10 @@ int main() {
 } 
 
 //计算两点的曼哈顿距离
-'''
+```
 这是一个通过外置函数计算曼哈顿距离的代码，那么，我们要怎么知道其中的原理呢？
 首先，我们知道，曼哈顿函数其实就是|x1-x2|+|y1-y2|，那么自定义模块函数就好写了！
-'''cpp
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -41,6 +41,6 @@ int main() {
     return 0;
 } 
 
-'''
+```
 ---
 总结：自定义模块化函数
